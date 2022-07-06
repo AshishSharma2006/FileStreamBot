@@ -28,7 +28,7 @@ HELP_TEXT = """
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/Ashishsharmalegend'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : Eliteflix File To Link BotX</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/eliteflix_official'>3.0.1</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Ashishsharmalegend'>Ashish Sharma</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/eliteflix_official'>[ 29 - June - 2022 ] 03:35 ᴀᴍ</a></b>"""
