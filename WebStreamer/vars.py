@@ -15,7 +15,7 @@ class Var(object):
     WORKERS = int(getenv('WORKERS', '4'))
     BIN_CHANNEL = int(getenv('BIN_CHANNEL'))
     PORT = int(getenv('PORT', 8080))
-    BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
+    BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '1.1.1.1'))
     OWNER_ID = int(getenv('OWNER_ID', '797848243'))
     NO_PORT = bool(getenv('NO_PORT', False))
     APP_NAME = None
@@ -24,7 +24,7 @@ class Var(object):
         APP_NAME = str(getenv('APP_NAME'))
     else:
         ON_HEROKU = False
-    FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
+    FQDN = str(getenv('FQDN', 'eliteflix-file-to-link-ashishsharma2006.koyeb.app')) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
     URL = "https://{}/".format(FQDN) if ON_HEROKU or NO_PORT else \
         "http://{}:{}/".format(FQDN, PORT)
     DATABASE_URL = str(getenv('DATABASE_URL'))
