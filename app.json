@@ -1,6 +1,6 @@
 {
-  "name": "Eliteflix File To Link Bot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
+  "name": "Eliteflix Bot Links",
+  "description": "A Telegram Files To Web Link bot",
   "keywords": [
       "telegram",
       "stream",
