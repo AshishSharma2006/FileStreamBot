@@ -1,5 +1,5 @@
 {
-  "name": "Avi-FileStreamBot",
+  "name": "Eliteflix File To Link Bot",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
   "keywords": [
       "telegram",
@@ -12,10 +12,10 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://github.com/AshishSharma2006/FileStreamBot/",
   "success_url": "/",
-  "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
-  "website": "avipatilweb.ml",
+  "logo": "https://i.ibb.co/gPw6mtx/Red-Black-EF.jpg",
+  "website": "eliteflix-file-to-link-bot.herokuapp.com",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
