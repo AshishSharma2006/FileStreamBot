@@ -5,3 +5,4 @@ python-dotenv<=0.20.0
 motor
 aiofiles
 dnspython
+python-3.8.16
