@@ -1,4 +1,4 @@
-python-3.8.1
+python-3.9.13
 pyrogram>=2.0.0,<=2.0.30
 tgcrypto<=1.2.3
 aiohttp<=3.8.1
